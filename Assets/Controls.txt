@@ -1,0 +1,5 @@
+m - mesh off
+c - switch from cached to not cached
+
+The cubes are white when using cached, red when using non cached.
+
